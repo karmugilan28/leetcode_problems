@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/karmugilan28/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/karmugilan28/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/karmugilan28/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 ## Greedy
 |  |
