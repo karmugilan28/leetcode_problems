@@ -1,4 +1,5 @@
 class Solution {
+//memoization
 public:
     int fn(int i,int j,vector<vector<int>>&grid,vector<vector<int>>&dp){
         if(i==0 && j==0){
@@ -17,6 +18,7 @@ public:
     }
 public:
     int minPathSum(vector<vector<int>>& grid) {
+        //memoization
         int m=grid.size(),n=grid[0].size();
         vector<vector<int>>dp(m,vector<int>(n,-1));
         int ans=fn(m-1,n-1,grid,dp);
