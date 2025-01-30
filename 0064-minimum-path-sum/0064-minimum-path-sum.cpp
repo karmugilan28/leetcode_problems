@@ -11,9 +11,7 @@ public:
             return dp[i][j];
         int l=0,r=0;
         l=grid[i][j]+fn(i-1,j,grid,dp);
-        cout <<  1 << " " << l << endl;
         r=grid[i][j]+fn(i,j-1,grid,dp);
-        cout << -1 << " " <<r << endl;
         return  dp[i][j]=min(l,r);
     }
 public:
