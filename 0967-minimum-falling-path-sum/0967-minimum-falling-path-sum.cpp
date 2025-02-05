@@ -68,7 +68,6 @@ public:
         //space optimization
         int n=matrix.size();
         vector<int>dp(n);
-
         for(int i=0;i<n;i++){
             vector<int>nums(n);
             for(int j=0;j<n;j++){
