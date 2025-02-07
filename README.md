@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karmugilan28/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 ## Counting
 |  |
