@@ -32,28 +32,52 @@ public:
         //     minii=min(minii,ans);
         // }
         // return minii;
+
+
         //tabulation
+        // int n=grid.size();
+        // vector<vector<int>>dp(n,vector<int>(n,-100));
+        // for(int i=0;i<n;i++){
+        //     for(int j=0;j<n;j++){
+        //         if(i==0)
+        //             dp[i][j]=grid[i][j];
+        //         else{
+        //             int mini=INT_MAX,l=INT_MAX;
+        //             for(int k=0;k<n;k++){
+        //                 if(k!=j){
+        //                    l=grid[i][j]+dp[i-1][k];
+        //                    mini=min(l,mini);
+        //                 }
+        //             }
+        //             dp[i][j]=mini;
+        //         }
+        //     }
+        // }
+        // int minii=INT_MAX;
+        // for(int i=0;i<n;i++)
+        //     minii=min(minii,dp[n-1][i]);
+        // return minii;
+
+        //space optimization:
         int n=grid.size();
-        vector<vector<int>>dp(n,vector<int>(n,-100));
-        for(int i=0;i<n;i++){
+        vector<int>dp(n,0);
+        for(int j=0;j<n;j++)
+            dp[j]=grid[0][j];
+        for(int i=1;i<n;i++){
+            vector<int>nums(n,0);
             for(int j=0;j<n;j++){
-                if(i==0)
-                    dp[i][j]=grid[i][j];
-                else{
-                    int mini=INT_MAX,l=INT_MAX;
-                    for(int k=0;k<n;k++){
-                        if(k!=j){
-                           l=grid[i][j]+dp[i-1][k];
-                           mini=min(l,mini);
-                        }
-                    }
-                    dp[i][j]=mini;
+                int mini=INT_MAX;
+                for(int k=0;k<n;k++){
+                    if(k!=j)
+                        mini=min(mini,grid[i][j]+dp[k]);
                 }
+                nums[j]=mini;
             }
+            dp=nums;
         }
         int minii=INT_MAX;
         for(int i=0;i<n;i++)
-            minii=min(minii,dp[n-1][i]);
+            minii=min(minii,dp[i]);
         return minii;
     }
 };
