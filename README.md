@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karmugilan28/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3654-minimum-array-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/3654-minimum-array-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/karmugilan28/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -121,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
