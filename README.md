@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/karmugilan28/leetcode_problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
