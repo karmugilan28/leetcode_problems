@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/karmugilan28/leetcode_problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2350-find-closest-number-to-zero](https://github.com/karmugilan28/leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
