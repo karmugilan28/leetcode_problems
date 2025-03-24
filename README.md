@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karmugilan28/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3430-count-days-without-meetings](https://github.com/karmugilan28/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3654-minimum-array-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/3654-minimum-array-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/karmugilan28/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3430-count-days-without-meetings](https://github.com/karmugilan28/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
