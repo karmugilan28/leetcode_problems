@@ -19,11 +19,14 @@ public:
         arr=questions;
         // vector<long long> dp(n,-1);
         // return fn(0,questions,dp);
+
+        //tabulation
         vector<long long>dp(n,0);
         for(int i=n-1;i>=0;i--){
             long long take = arr[i][0];
             if((i+arr[i][1]+1) < n)
                 take += dp[i+arr[i][1]+1];
+                
             long long nottake = 0;
             if(i<n-1)
                 nottake = dp[i+1];
