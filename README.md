@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0494-target-sum) |
+| [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0027-remove-element) |
+| [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
