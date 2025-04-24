@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/karmugilan28/leetcode_problems/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0343-integer-break) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
+| [1500-count-largest-group](https://github.com/karmugilan28/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2998-count-symmetric-integers](https://github.com/karmugilan28/leetcode_problems/tree/master/2998-count-symmetric-integers) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1500-count-largest-group](https://github.com/karmugilan28/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
