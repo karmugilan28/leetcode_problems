@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/karmugilan28/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/karmugilan28/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/karmugilan28/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/karmugilan28/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
