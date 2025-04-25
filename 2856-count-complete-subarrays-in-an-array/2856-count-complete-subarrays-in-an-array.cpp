@@ -1,6 +1,7 @@
 class Solution {
 public:
     int countCompleteSubarrays(vector<int>& nums) {
+        //sliding window
         int n=nums.size();
         map<int,int>mpp;
         for(int i=0;i<n;i++){
