@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/karmugilan28/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/karmugilan28/leetcode_problems/tree/master/0038-count-and-say) |
 | [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0027-remove-element) |
 | [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
