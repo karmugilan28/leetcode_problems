@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/karmugilan28/leetcode_problems/tree/master/0038-count-and-say) |
 | [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karmugilan28/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karmugilan28/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
