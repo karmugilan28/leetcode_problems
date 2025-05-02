@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/karmugilan28/leetcode_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/karmugilan28/leetcode_problems/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/karmugilan28/leetcode_problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/karmugilan28/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/karmugilan28/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/karmugilan28/leetcode_problems/tree/master/0274-h-index) |
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/karmugilan28/leetcode_problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
