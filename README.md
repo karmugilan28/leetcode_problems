@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/karmugilan28/leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/karmugilan28/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/karmugilan28/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/karmugilan28/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 ## Depth-First Search
 |  |
