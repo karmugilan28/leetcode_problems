@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/karmugilan28/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/karmugilan28/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/karmugilan28/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/karmugilan28/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
