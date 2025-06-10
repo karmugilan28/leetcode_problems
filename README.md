@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/karmugilan28/leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
+| [1170-shortest-common-supersequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karmugilan28/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/karmugilan28/leetcode_problems/tree/master/0868-push-dominoes) |
+| [1170-shortest-common-supersequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karmugilan28/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karmugilan28/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
