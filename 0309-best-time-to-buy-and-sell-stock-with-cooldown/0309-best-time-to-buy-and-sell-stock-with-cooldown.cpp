@@ -25,7 +25,7 @@ public:
         dp[1][1] = -nums[0];
         dp[1][0] = 0;
         for(int i = 2; i <= n; i++){
-            for(int j = 0; j <= 1; j++){
+            for(int j = 1; j >=0; j--){
                 int nottake = dp[i-1][j];
                 int take = 0;
                 if(j == 0)   take = nums[i-1] + dp[i-1][1];
