@@ -21,21 +21,39 @@ public:
         // return fn(n-1,0,prices,dp);
 
         //tabulation
-        vector<vector<int>>dp(n+1,vector<int>(2,0));
-        dp[1][1] = -nums[0];
-        dp[1][0] = 0;
+        // vector<vector<int>>dp(n+1,vector<int>(2,0));
+        // dp[1][1] = -nums[0];
+        // dp[1][0] = 0;
+        // for(int i = 2; i <= n; i++){
+        //     for(int j = 1; j >=0; j--){
+        //         int nottake = dp[i-1][j];
+        //         int take = 0;
+        //         if(j == 0)   take = nums[i-1] + dp[i-1][1];
+        //         else{
+        //             if(i>1)  take = -nums[i-1] + dp[i-2][0];
+        //         }
+        //         dp[i][j] = max(nottake,take);
+        //     }
+        // }
+        // return dp[n][0];
+
+        //space optimization
+        vector<int>prev(2,0),curr(2,0),prev2(2,0);
+        prev[1] = -nums[0];
+        prev[0] = 0;
         for(int i = 2; i <= n; i++){
             for(int j = 1; j >=0; j--){
-                int nottake = dp[i-1][j];
+                int nottake = prev[j];
                 int take = 0;
-                if(j == 0)   take = nums[i-1] + dp[i-1][1];
+                if(j == 0)   take = nums[i-1] + prev[1];
                 else{
-                    if(i>1)  take = -nums[i-1] + dp[i-2][0];
+                    if(i>1)  take = -nums[i-1] + prev2[0];
                 }
-                dp[i][j] = max(nottake,take);
+                curr[j] = max(nottake,take);
             }
+            prev2 = prev;
+            prev = curr;
         }
-        // for(int i=0 ;i<=n;i++)  cout << dp[i][0] << ' ' << dp[i][1] << endl;
-        return dp[n][0];
+        return prev[0];
     }
 };
