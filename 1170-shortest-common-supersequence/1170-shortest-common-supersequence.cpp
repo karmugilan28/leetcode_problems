@@ -19,20 +19,27 @@ public:
         string res = "";
         while(i > 0 && j > 0){
             if(s[i-1] == t[j-1]){
+                //if the element matches take it one time and move to i-1 and j-1
                 res += s[i-1];
                 i--;j--;
             }
             else{
+                //if it does not matches  there are two possibilities that we have got our current value from dp[i-1][j] or dp[i][j-1] since we take max from these
+
                 if(dp[i-1][j] >= dp[i][j-1]){
+                    //if this happens i take the element from s string and move to i--;
                     res += s[i-1];
                     i--;
                 }
                 else{
+                    // if tjis happens i take the elemnt from t string and move to j--;
                     res += t[j-1];
                     j--;
                 }
             }
         }
+        // the above loop stops if (i or j)  equals 0 . so i may miss some characters. in order avoid this avoid write the below code
+        //and reverse the entire string since we came from last cell of dp table
         while(i){
             res += s[i-1];
             i--;
