@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/karmugilan28/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 ## Depth-First Search
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karmugilan28/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/karmugilan28/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/karmugilan28/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/karmugilan28/leetcode_problems/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1250-longest-common-subsequence) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karmugilan28/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/karmugilan28/leetcode_problems/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
