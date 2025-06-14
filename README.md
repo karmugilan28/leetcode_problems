@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/karmugilan28/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/karmugilan28/leetcode_problems/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0343-integer-break) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
@@ -323,9 +324,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/karmugilan28/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/karmugilan28/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
