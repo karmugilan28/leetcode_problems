@@ -320,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0139-word-break) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
