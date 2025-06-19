@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/karmugilan28/leetcode_problems/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1250-longest-common-subsequence) |
+| [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karmugilan28/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karmugilan28/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karmugilan28/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/karmugilan28/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/karmugilan28/leetcode_problems/tree/master/0907-koko-eating-bananas) |
+| [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/karmugilan28/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2690-house-robber-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/2690-house-robber-iv) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/karmugilan28/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karmugilan28/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/karmugilan28/leetcode_problems/tree/master/0525-contiguous-array) |
+| [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2249-count-the-hidden-sequences](https://github.com/karmugilan28/leetcode_problems/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
