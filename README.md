@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/karmugilan28/leetcode_problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/karmugilan28/leetcode_problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
+| [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/karmugilan28/leetcode_problems/tree/master/0525-contiguous-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/karmugilan28/leetcode_problems/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
