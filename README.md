@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/karmugilan28/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/karmugilan28/leetcode_problems/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/karmugilan28/leetcode_problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/karmugilan28/leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0139-word-break) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karmugilan28/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
