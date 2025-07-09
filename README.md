@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/karmugilan28/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/karmugilan28/leetcode_problems/tree/master/0056-merge-intervals) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0139-word-break) |
