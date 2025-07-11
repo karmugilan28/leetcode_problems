@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -144,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/karmugilan28/leetcode_problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -381,5 +384,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
