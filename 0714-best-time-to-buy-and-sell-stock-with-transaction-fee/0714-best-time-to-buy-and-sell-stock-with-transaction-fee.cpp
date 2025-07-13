@@ -19,29 +19,29 @@ public:
         // return fn(n-1,0,fee,nums,dp);
 
         //tabulation
-        vector<vector<int>>dp(n,vector<int>(2,0));
-        dp[0][1] = -nums[0], dp[0][0] = 0;
-        for(int i = 1; i < n; i++){
-            for(int j = 0; j < 2; j++){
-                int notdo = dp[i-1][j];
-                if(j == 0) dp[i][j] = max(notdo,nums[i]-fee + dp[i-1][1]);
-                else    dp[i][j] = max(notdo,-nums[i] + dp[i-1][0]);
-            }
-        }
-        return dp[n-1][0];
-
-        //spce optimization
-        // vector<int>prev(n,0),curr(n,0);
-        // if(n < 2)   return 0;
-        // prev[1] = -nums[0], prev[0] = 0;
+        // vector<vector<int>>dp(n,vector<int>(2,0));
+        // dp[0][1] = -nums[0], dp[0][0] = 0;
         // for(int i = 1; i < n; i++){
         //     for(int j = 0; j < 2; j++){
-        //         int notdo = prev[j];
-        //         if(j == 0) curr[j] = max(notdo,nums[i]-fee + prev[1]);
-        //         else    curr[j] = max(notdo,-nums[i] + prev[0]);
+        //         int notdo = dp[i-1][j];
+        //         if(j == 0) dp[i][j] = max(notdo,nums[i]-fee + dp[i-1][1]);
+        //         else    dp[i][j] = max(notdo,-nums[i] + dp[i-1][0]);
         //     }
-        //     prev = curr;
         // }
-        // return prev[0];
+        // return dp[n-1][0];
+
+        //spce optimization
+        vector<int>prev(2,0),curr(2,0);
+        if(n < 2)   return 0;
+        prev[1] = -nums[0], prev[0] = 0;
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j < 2; j++){
+                int notdo = prev[j];
+                if(j == 0) curr[j] = max(notdo,nums[i]-fee + prev[1]);
+                else    curr[j] = max(notdo,-nums[i] + prev[0]);
+            }
+            prev = curr;
+        }
+        return prev[0];
     }
 };
