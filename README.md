@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/karmugilan28/leetcode_problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/karmugilan28/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/karmugilan28/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/karmugilan28/leetcode_problems/tree/master/0238-product-of-array-except-self) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/karmugilan28/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/karmugilan28/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/karmugilan28/leetcode_problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/karmugilan28/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/karmugilan28/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karmugilan28/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
