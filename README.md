@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/karmugilan28/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/karmugilan28/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/karmugilan28/leetcode_problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/karmugilan28/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/karmugilan28/leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/karmugilan28/leetcode_problems/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0343-integer-break) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karmugilan28/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karmugilan28/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/karmugilan28/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karmugilan28/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karmugilan28/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/karmugilan28/leetcode_problems/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/karmugilan28/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/karmugilan28/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
