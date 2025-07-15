@@ -22,20 +22,38 @@ public:
 
 
         //tabulation
-        vector<vector<vector<int>>>dp(n,vector<vector<int>>(2,vector<int>(3,0)));
+        // vector<vector<vector<int>>>dp(n,vector<vector<int>>(2,vector<int>(3,0)));
+        // for(int i = 1; i <= 2; i++){
+        //     dp[0][1][i] = -nums[0];
+        //     dp[0][0][i] = 0;
+        // }
+        // for(int i = 1; i < n; i++){
+        //     for(int j = 0; j < 2; j++){
+        //         for(int k = 1; k < 3; k++){
+        //             int notdo = dp[i-1][j][k];
+        //             if(j == 1 && k > 0) dp[i][j][k] = max(notdo,-nums[i]+dp[i-1][0][k-1]);
+        //             else if(j == 0 && k > 0)    dp[i][j][k] = max(notdo,nums[i]+dp[i-1][1][k]);
+        //         }
+        //     }
+        // }
+        // return dp[n-1][0][2];
+
+        //space optimization
+        vector<vector<int>>prev(2,vector<int>(3,0)),curr(2,vector<int>(3,0));
         for(int i = 1; i <= 2; i++){
-            dp[0][1][i] = -nums[0];
-            dp[0][0][i] = 0;
+            prev[1][i] = -nums[0];
+            prev[0][i] = 0;
         }
         for(int i = 1; i < n; i++){
             for(int j = 0; j < 2; j++){
                 for(int k = 1; k < 3; k++){
-                    int notdo = dp[i-1][j][k];
-                    if(j == 1 && k > 0) dp[i][j][k] = max(notdo,-nums[i]+dp[i-1][0][k-1]);
-                    else if(j == 0 && k > 0)    dp[i][j][k] = max(notdo,nums[i]+dp[i-1][1][k]);
+                    int notdo = prev[j][k];
+                    if(j == 1 && k > 0) curr[j][k] = max(notdo,-nums[i]+prev[0][k-1]);
+                    else if(j == 0 && k > 0)    curr[j][k] = max(notdo,nums[i]+prev[1][k]);
                 }
             }
+            prev = curr;
         }
-        return dp[n-1][0][2];
+        return prev[0][2];
     }
 };
