@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karmugilan28/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/karmugilan28/leetcode_problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2562-count-ways-to-build-good-strings](https://github.com/karmugilan28/leetcode_problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/karmugilan28/leetcode_problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3654-minimum-array-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/3654-minimum-array-sum) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
