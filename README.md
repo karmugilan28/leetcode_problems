@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/karmugilan28/leetcode_problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/karmugilan28/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/karmugilan28/leetcode_problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/karmugilan28/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/karmugilan28/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karmugilan28/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/karmugilan28/leetcode_problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/karmugilan28/leetcode_problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/karmugilan28/leetcode_problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/karmugilan28/leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0139-word-break) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sliding Window
