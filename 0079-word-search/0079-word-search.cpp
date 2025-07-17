@@ -7,12 +7,15 @@ bool fn(int i,int j,int k,vector<vector<char>>&grid,string& s,vector<vector<int>
     else    return false;
     if(vis[i][j]==1)    return false;
     else    vis[i][j]=1;
-    bool a=fn(i+1,j,k,grid,s,vis);
-    bool b=fn(i,j+1,k,grid,s,vis);
-    bool c=fn(i-1,j,k,grid,s,vis);
-    bool d=fn(i,j-1,k,grid,s,vis);
-    vis[i][j]=0;
-    return a || b || c || d;
+    bool a = false;
+    for(int g = -1; g <= 1; g++){
+        if(g != 0){
+            a = a || fn(i+g,j,k,grid,s,vis);
+            a = a || fn(i,j+g,k,grid,s,vis);
+        }
+    }
+    vis[i][j] = 0;
+    return a;
 }
 public:
     bool exist(vector<vector<char>>& grid,string word){
