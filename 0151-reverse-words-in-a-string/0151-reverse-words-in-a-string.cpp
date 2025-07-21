@@ -7,13 +7,11 @@ public:
             s.erase(0,1);
         }
         int i = s.size()-1;
-        cout << i << endl;
         while(s[i] == ' '){
             s.erase(i,1);
             i -= 1;
         }
         // cout << s << endl;
-        cout << s.size() << endl;
         int mini = INT_MAX;
         for(int i = 0; i < s.size(); i++){
             if((i < s.size()-1) && (s[i] ==' ' && s[i+1] == ' ')){
@@ -22,7 +20,6 @@ public:
                 cout << i << endl;
             }
             else if(s[i] == ' '){
-
                 reverse(s.begin()+mini,s.begin()+i);
                 mini = INT_MAX;
             }
