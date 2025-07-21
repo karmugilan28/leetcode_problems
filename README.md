@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/karmugilan28/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/karmugilan28/leetcode_problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/karmugilan28/leetcode_problems/tree/master/0075-sort-colors) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/karmugilan28/leetcode_problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/karmugilan28/leetcode_problems/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/karmugilan28/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/karmugilan28/leetcode_problems/tree/master/0091-decode-ways) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/karmugilan28/leetcode_problems/tree/master/0068-text-justification) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
