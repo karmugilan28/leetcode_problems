@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karmugilan28/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3468-find-the-encrypted-string](https://github.com/karmugilan28/leetcode_problems/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
 |  |
 | ------- |
