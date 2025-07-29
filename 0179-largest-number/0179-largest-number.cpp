@@ -25,7 +25,7 @@ public:
                 if(res[i].size() <= res[j].size() && res[i] != res[j]){
                     mini = res[i].size();
                     maxi = res[j].size();
-                    while(l < maxi*3){
+                    while(l < maxi*2){
                         if(res[i][l%mini] > res[j][l%maxi])  {flg = 0;break;}
                         else if(res[i][l%mini] == res[j][l%maxi])    flg = 2;
                         else{
@@ -39,7 +39,7 @@ public:
                 else if(res[j].size() < res[i].size() && res[i] != res[j]){
                     mini = res[j].size();
                     maxi = res[i].size();
-                    while(l < maxi*3){
+                    while(l < maxi*2){
                         if(res[i][l%maxi] > res[j][l%mini])  flg = 0;
                         else if(res[i][l%maxi] == res[j][l%mini])    flg = 2;
                         else{
