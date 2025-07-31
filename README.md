@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1362-airplane-seat-assignment-probability](https://github.com/karmugilan28/leetcode_problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karmugilan28/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
 | [2187-vowels-of-all-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/2187-vowels-of-all-substrings) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0343-integer-break) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/karmugilan28/leetcode_problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/karmugilan28/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -474,5 +476,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/karmugilan28/leetcode_problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/karmugilan28/leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/karmugilan28/leetcode_problems/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
