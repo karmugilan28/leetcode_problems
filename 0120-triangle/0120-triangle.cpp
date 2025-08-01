@@ -59,10 +59,6 @@ public:
             dp.push_back(a);
         }
         for(int i = 0; i < n; i++)    dp[n-1][i] = triangle[n-1][i];
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < dp[i].size(); j++)   cout << dp[i][j] << " ";
-            cout << endl;  
-        }
         for(int i = n-2; i >= 0; i--){
             for(int j = 0; j < triangle[i].size(); j++){
                 int d = triangle[i][j] + dp[i+1][j+1];
