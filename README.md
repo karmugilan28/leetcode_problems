@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
+| [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/karmugilan28/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
+| [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/karmugilan28/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/karmugilan28/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/karmugilan28/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/karmugilan28/leetcode_problems/tree/master/3430-count-days-without-meetings) |
