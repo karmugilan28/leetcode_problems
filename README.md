@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/karmugilan28/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/karmugilan28/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/karmugilan28/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/karmugilan28/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0139-word-break) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/karmugilan28/leetcode_problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/karmugilan28/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/karmugilan28/leetcode_problems/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/karmugilan28/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karmugilan28/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/karmugilan28/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/karmugilan28/leetcode_problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0169-majority-element) |
