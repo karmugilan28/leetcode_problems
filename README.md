@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/karmugilan28/leetcode_problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/karmugilan28/leetcode_problems/tree/master/2562-count-ways-to-build-good-strings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/karmugilan28/leetcode_problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/karmugilan28/leetcode_problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/3654-minimum-array-sum) |
