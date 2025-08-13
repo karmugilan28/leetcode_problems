@@ -65,40 +65,64 @@ public:
         //     res.push_back(it.first);
         // }
         // return res;
-        int flg= 0;
-        int n = nums.size();
-        for(int i = 0; i < n; i++){
-            if(nums[i] == 0)    flg = 0;
-            else{
-                flg = 1;
-                break;
-            }
-        }
-        if(flg == 0)    return {{0,0,0}};
-        sort(nums.begin(),nums.end());
-        unordered_map<int,int>mpp;
-        for(int i = 0; i < n; i++)  mpp[nums[i]] += 1;
-        vector<vector<int>>res;
-        set<vector<int>>st;
-        // unordered_map<vector<int>,int>mpp1;
-        for(int i = 0; i < n-2; i++){
-            int a = nums[i];
-            for(int j = i+1; j < n-1; j++){
-                int b = nums[j];
-                mpp[a] -= 1,mpp[b] -= 1;
-                if(mpp[-(a+b)] > 0){
-                    // mpp1[{a,b,-(a+b)}] += 1;
-                    st.insert({a,b,-(a+b)});
-                }
-                mpp[a] += 1;
-            }
-            for(int k = i+1; k < n-1; k++)  mpp[nums[k]] += 1;
-            mpp[a] -= 1;
-        }
-        for(auto&it:st) res.push_back(it);
-        // for(auto&it:mpp1){
-        //     if(it.second > 0)   res.push_back(it.first);
+        // int flg= 0;
+        // int n = nums.size();
+        // for(int i = 0; i < n; i++){
+        //     if(nums[i] == 0)    flg = 0;
+        //     else{
+        //         flg = 1;
+        //         break;
+        //     }
         // }
+        // if(flg == 0)    return {{0,0,0}};
+        // sort(nums.begin(),nums.end());
+        // unordered_map<int,int>mpp;
+        // for(int i = 0; i < n; i++)  mpp[nums[i]] += 1;
+        // vector<vector<int>>res;
+        // set<vector<int>>st;
+        // // unordered_map<vector<int>,int>mpp1;
+        // for(int i = 0; i < n-2; i++){
+        //     int a = nums[i];
+        //     for(int j = i+1; j < n-1; j++){
+        //         int b = nums[j];
+        //         mpp[a] -= 1,mpp[b] -= 1;
+        //         if(mpp[-(a+b)] > 0){
+        //             // mpp1[{a,b,-(a+b)}] += 1;
+        //             st.insert({a,b,-(a+b)});
+        //         }
+        //         mpp[a] += 1;
+        //     }
+        //     for(int k = i+1; k < n-1; k++)  mpp[nums[k]] += 1;
+        //     mpp[a] -= 1;
+        // }
+        // for(auto&it:st) res.push_back(it);
+        // // for(auto&it:mpp1){
+        // //     if(it.second > 0)   res.push_back(it.first);
+        // // }
+        // return res;
+        int n = nums.size();
+        sort(nums.begin(),nums.end());
+        vector<vector<int>>res;
+;        for(int i = 0; i < n; i++){
+            int j = i+1, k = n-1;
+            if(i > 0 && nums[i] == nums[i-1])   continue;
+            while(j < k){
+                int b = nums[i]+nums[j]+nums[k];
+                if(b == 0){
+                    res.push_back({nums[i],nums[j],nums[k]});
+                    j++;
+                    k--;
+                    while(j < k && nums[j] == nums[j-1])    j++;
+                    while(j < k && nums[k] == nums[k+1])    k--;
+                }
+                else if(b < 0){
+                    j++;
+                }
+                else if(b > 0){
+                    k--;
+                }
+            }
+        }
         return res;
     }
 };
