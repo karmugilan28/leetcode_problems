@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/karmugilan28/leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/karmugilan28/leetcode_problems/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/karmugilan28/leetcode_problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0343-integer-break) |
 | [0900-reordered-power-of-2](https://github.com/karmugilan28/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/karmugilan28/leetcode_problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/karmugilan28/leetcode_problems/tree/master/0326-power-of-three) |
 ## Design
 |  |
 | ------- |
