@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/karmugilan28/leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1080-camelcase-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/1080-camelcase-matching) |
 | [1105-uncrossed-lines](https://github.com/karmugilan28/leetcode_problems/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/karmugilan28/leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/karmugilan28/leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/karmugilan28/leetcode_problems/tree/master/1105-uncrossed-lines) |
+| [1129-longest-string-chain](https://github.com/karmugilan28/leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1250-longest-common-subsequence) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/karmugilan28/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/karmugilan28/leetcode_problems/tree/master/0940-fruit-into-baskets) |
+| [1129-longest-string-chain](https://github.com/karmugilan28/leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/karmugilan28/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/karmugilan28/leetcode_problems/tree/master/0868-push-dominoes) |
 | [1080-camelcase-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/1080-camelcase-matching) |
+| [1129-longest-string-chain](https://github.com/karmugilan28/leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karmugilan28/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/karmugilan28/leetcode_problems/tree/master/0900-reordered-power-of-2) |
+| [1129-longest-string-chain](https://github.com/karmugilan28/leetcode_problems/tree/master/1129-longest-string-chain) |
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/karmugilan28/leetcode_problems/tree/master/0868-push-dominoes) |
 | [1080-camelcase-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/1080-camelcase-matching) |
+| [1129-longest-string-chain](https://github.com/karmugilan28/leetcode_problems/tree/master/1129-longest-string-chain) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/karmugilan28/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
