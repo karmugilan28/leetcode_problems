@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/karmugilan28/leetcode_problems/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/karmugilan28/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/karmugilan28/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/karmugilan28/leetcode_problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/karmugilan28/leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/karmugilan28/leetcode_problems/tree/master/1500-count-largest-group) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
