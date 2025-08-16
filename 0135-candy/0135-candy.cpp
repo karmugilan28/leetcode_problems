@@ -37,12 +37,7 @@ public:
         }
         
         int ans = 0;
-        for(int i = 0; i < n;i++){
-            cout << temp[i] << " ";
-            ans += temp[i];
-        }
+        for(int i = 0; i < n;i++)    ans += temp[i];
         return ans;
-
-        
     }
 };
