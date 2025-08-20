@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karmugilan28/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/karmugilan28/leetcode_problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/karmugilan28/leetcode_problems/tree/master/0049-group-anagrams) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/karmugilan28/leetcode_problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/karmugilan28/leetcode_problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1080-camelcase-matching](https://github.com/karmugilan28/leetcode_problems/tree/master/1080-camelcase-matching) |
 ## Segment Tree
 |  |
