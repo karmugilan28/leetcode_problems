@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/karmugilan28/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karmugilan28/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/karmugilan28/leetcode_problems/tree/master/3430-count-days-without-meetings) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/karmugilan28/leetcode_problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/karmugilan28/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
 | [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Counting
 |  |
