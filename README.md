@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/karmugilan28/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/karmugilan28/leetcode_problems/tree/master/0525-contiguous-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/karmugilan28/leetcode_problems/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karmugilan28/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/karmugilan28/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/karmugilan28/leetcode_problems/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/1036-rotting-oranges) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/karmugilan28/leetcode_problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/karmugilan28/leetcode_problems/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/karmugilan28/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/karmugilan28/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
