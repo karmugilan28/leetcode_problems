@@ -28,7 +28,7 @@ public:
         // return false;
         if(n % k == 0){
             int a = n/k;
-            map<int,int>mpp;
+            unordered_map<int,int>mpp;
             for(int i = 0; i < n; i++)  mpp[arr[i]] += 1;
             for(int i = 0 ; i < n; i++){
                 if(mpp[arr[i]] > a) return false;
