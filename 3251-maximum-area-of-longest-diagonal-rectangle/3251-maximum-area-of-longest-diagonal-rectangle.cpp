@@ -8,7 +8,7 @@ public:
             float d = sqrt(nums[i][0]*nums[i][0] + nums[i][1]*nums[i][1]);
             mpp[d].first += 1;
             mpp[d].second = max(mpp[d].second,nums[i][0]*nums[i][1]);
-            cout << mpp[d].first << " " << mpp[d].second << endl;
+            // cout << mpp[d].first << " " << mpp[d].second << endl;
             maxi = max(d,maxi);
         }
         return mpp[maxi].second;
