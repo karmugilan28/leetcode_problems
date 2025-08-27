@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-array-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/karmugilan28/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/karmugilan28/leetcode_problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/karmugilan28/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/karmugilan28/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/karmugilan28/leetcode_problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/3654-minimum-array-sum) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/karmugilan28/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/karmugilan28/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting
 |  |
 | ------- |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0139-word-break) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/karmugilan28/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
 |  |
 | ------- |
