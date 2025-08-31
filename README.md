@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/karmugilan28/leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/karmugilan28/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/karmugilan28/leetcode_problems/tree/master/2249-count-the-hidden-sequences) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/karmugilan28/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/karmugilan28/leetcode_problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/karmugilan28/leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/karmugilan28/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2690-house-robber-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/2690-house-robber-iv) |
