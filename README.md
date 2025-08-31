@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/karmugilan28/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/karmugilan28/leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/karmugilan28/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/karmugilan28/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/karmugilan28/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/karmugilan28/leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/karmugilan28/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/karmugilan28/leetcode_problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/karmugilan28/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/karmugilan28/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/karmugilan28/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/karmugilan28/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
