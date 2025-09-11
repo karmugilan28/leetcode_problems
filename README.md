@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2187-vowels-of-all-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/2187-vowels-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/karmugilan28/leetcode_problems/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
 |  |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karmugilan28/leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/karmugilan28/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/karmugilan28/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/karmugilan28/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
