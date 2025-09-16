@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/karmugilan28/leetcode_problems/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/karmugilan28/leetcode_problems/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/karmugilan28/leetcode_problems/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/karmugilan28/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/karmugilan28/leetcode_problems/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karmugilan28/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/karmugilan28/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/karmugilan28/leetcode_problems/tree/master/0733-flood-fill) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karmugilan28/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/karmugilan28/leetcode_problems/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/karmugilan28/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0907-koko-eating-bananas](https://github.com/karmugilan28/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/karmugilan28/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
