@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/karmugilan28/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
+| [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
 ## Depth-First Search
 |  |
 | ------- |
