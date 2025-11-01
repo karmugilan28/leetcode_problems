@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/karmugilan28/leetcode_problems/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/karmugilan28/leetcode_problems/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |
 | ------- |
