@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2187-vowels-of-all-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/2187-vowels-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/karmugilan28/leetcode_problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/karmugilan28/leetcode_problems/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/karmugilan28/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/karmugilan28/leetcode_problems/tree/master/2249-count-the-hidden-sequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/karmugilan28/leetcode_problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/karmugilan28/leetcode_problems/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
