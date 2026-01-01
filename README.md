@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/karmugilan28/leetcode_problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/karmugilan28/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/karmugilan28/leetcode_problems/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/karmugilan28/leetcode_problems/tree/master/1073-number-of-enclaves) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/karmugilan28/leetcode_problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/karmugilan28/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/karmugilan28/leetcode_problems/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/1036-rotting-oranges) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/karmugilan28/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/karmugilan28/leetcode_problems/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -650,5 +653,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/karmugilan28/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
