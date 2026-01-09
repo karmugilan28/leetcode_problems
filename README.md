@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/karmugilan28/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/karmugilan28/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/karmugilan28/leetcode_problems/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/karmugilan28/leetcode_problems/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/karmugilan28/leetcode_problems/tree/master/0169-majority-element) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/karmugilan28/leetcode_problems/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
