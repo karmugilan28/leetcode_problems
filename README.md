@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/karmugilan28/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
+| [1266-minimum-time-visiting-all-points](https://github.com/karmugilan28/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/karmugilan28/leetcode_problems/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/karmugilan28/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/karmugilan28/leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [0900-reordered-power-of-2](https://github.com/karmugilan28/leetcode_problems/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/karmugilan28/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1362-airplane-seat-assignment-probability](https://github.com/karmugilan28/leetcode_problems/tree/master/1362-airplane-seat-assignment-probability) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/karmugilan28/leetcode_problems/tree/master/1448-maximum-69-number) |
@@ -663,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/karmugilan28/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
