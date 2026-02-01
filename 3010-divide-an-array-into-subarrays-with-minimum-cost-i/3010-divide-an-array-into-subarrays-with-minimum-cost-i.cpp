@@ -3,14 +3,12 @@ public:
     int minimumCost(vector<int>& nums) {
         int n = nums.size();
         int sum = nums[0];
-        int mini = INT_MAX;
-        for(int i = 1; i < n; i++){
-            for(int j = i+1; j < n; j++){
-                int s = (nums[i]+nums[j]);
-                mini = min(mini,s);
-            }
-        }
+        vector<int>arr;
+        for(int i = 1; i < n; i++)
+            arr.push_back(nums[i]);
         
-        return sum+mini;
+        sort(arr.begin(),arr.end());
+
+        return sum+arr[0]+arr[1];
     }
 };
