@@ -10,7 +10,6 @@ public:
             if(it.second%2 != 0)
                 res.push_back(it.first);
         }
-        sort(res.begin(),res.end());
         return res;
     }
 };
