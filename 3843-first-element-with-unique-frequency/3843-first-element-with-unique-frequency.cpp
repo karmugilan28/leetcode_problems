@@ -2,7 +2,7 @@ class Solution {
 public:
     int firstUniqueFreq(vector<int>& nums) {
         int n = nums.size();
-        map<int,int>mpp,mp;
+        unordered_map<int,int>mpp,mp;
         for(int i = 0; i < n; i++)  mpp[nums[i]]++;
         for(auto&it:mpp){
             mp[it.second] += 1;
