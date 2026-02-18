@@ -11,7 +11,7 @@ public:
         while(st.size() > 0){
             pair<int,pair<int,int>> front = *st.begin();
             int d = front.first, r = front.second.first, c = front.second.second;
-            cout << d << " " << r << " " << c << endl;
+            // cout << d << " " << r << " " << c << endl;
             st.erase(front);
             for(auto&it: pos){
                 if(it[0]+r >= 0 && it[0]+r < n && it[1]+c >= 0 && it[1]+c < n && grid[it[0]+r][it[1]+c] == 0){
