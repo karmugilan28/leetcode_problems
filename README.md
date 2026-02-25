@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/karmugilan28/leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [1656-count-good-triplets](https://github.com/karmugilan28/leetcode_problems/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/karmugilan28/leetcode_problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/karmugilan28/leetcode_problems/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/karmugilan28/leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/karmugilan28/leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/karmugilan28/leetcode_problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/karmugilan28/leetcode_problems/tree/master/1253-sort-the-matrix-diagonally) |
 | [1396-count-servers-that-communicate](https://github.com/karmugilan28/leetcode_problems/tree/master/1396-count-servers-that-communicate) |
 | [1559-cherry-pickup-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/1559-cherry-pickup-ii) |
+| [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
+| [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
 |  |
@@ -538,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/karmugilan28/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/karmugilan28/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [1675-magnetic-force-between-two-balls](https://github.com/karmugilan28/leetcode_problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/karmugilan28/leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/karmugilan28/leetcode_problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -679,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/karmugilan28/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
