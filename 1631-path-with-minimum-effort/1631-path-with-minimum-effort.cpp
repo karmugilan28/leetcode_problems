@@ -10,7 +10,6 @@ public:
         while(st.size() > 0){
             pair<int,pair<int,int>> front = *st.begin();
             int d = front.first, r = front.second.first, c = front.second.second;
-            cout << d << " " << r << " " << c << endl;
             if(r == n-1 && c == m-1)    return d;
             st.erase(front);
             for(auto&it: pos){
