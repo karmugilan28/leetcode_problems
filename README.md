@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/karmugilan28/leetcode_problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karmugilan28/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/karmugilan28/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karmugilan28/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/karmugilan28/leetcode_problems/tree/master/0868-push-dominoes) |
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/karmugilan28/leetcode_problems/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karmugilan28/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/karmugilan28/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/karmugilan28/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/karmugilan28/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/karmugilan28/leetcode_problems/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karmugilan28/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/karmugilan28/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/karmugilan28/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/karmugilan28/leetcode_problems/tree/master/0778-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karmugilan28/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Backtracking
@@ -689,4 +693,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karmugilan28/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karmugilan28/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
