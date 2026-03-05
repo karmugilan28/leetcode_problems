@@ -10,7 +10,6 @@ public:
                 for(int k = 0; k < n; k++)  s += grid[k][j];
                 for(int g = 0; g < m; g++)  s += grid[i][g];
                 mat[i][j] = s-grid[i][j];
-                cout << mat[i][j] << " ";
             }
             cout << endl;
         }
