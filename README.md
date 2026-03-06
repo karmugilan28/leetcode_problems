@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/karmugilan28/leetcode_problems/tree/master/1321-get-equal-substrings-within-budget) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karmugilan28/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/karmugilan28/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karmugilan28/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2187-vowels-of-all-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/2187-vowels-of-all-substrings) |
