@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/karmugilan28/leetcode_problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/karmugilan28/leetcode_problems/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/karmugilan28/leetcode_problems/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/karmugilan28/leetcode_problems/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/karmugilan28/leetcode_problems/tree/master/0498-diagonal-traverse) |
+| [1929-concatenation-of-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/karmugilan28/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
