@@ -2,7 +2,7 @@ class Solution {
 public:
     int minCost(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         for(int i = 0; i < n; i++)  mpp[nums1[i]]++;
         for(int i = 0; i < n; i++)  mpp[nums2[i]]++;
 
@@ -10,7 +10,7 @@ public:
             if(it.second%2 != 0)    return -1;
         }
 
-        map<int,int>diff;
+        unordered_map<int,int>diff;
         for(int i = 0; i < n; i++)  diff[nums1[i]]++;
         for(int i = 0; i < n; i++)  diff[nums2[i]]--;
 
