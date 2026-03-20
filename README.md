@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/karmugilan28/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/karmugilan28/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/karmugilan28/leetcode_problems/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
 ## Dynamic Programming
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/karmugilan28/leetcode_problems/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/karmugilan28/leetcode_problems/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Divide and Conquer
 |  |
 | ------- |
