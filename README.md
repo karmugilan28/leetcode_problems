@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/karmugilan28/leetcode_problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/karmugilan28/leetcode_problems/tree/master/3468-find-the-encrypted-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
