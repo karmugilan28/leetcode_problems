@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/karmugilan28/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/karmugilan28/leetcode_problems/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/karmugilan28/leetcode_problems/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/karmugilan28/leetcode_problems/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/karmugilan28/leetcode_problems/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Depth-First Search
