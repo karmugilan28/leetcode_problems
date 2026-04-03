@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/karmugilan28/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/karmugilan28/leetcode_problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/karmugilan28/leetcode_problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/karmugilan28/leetcode_problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3430-count-days-without-meetings](https://github.com/karmugilan28/leetcode_problems/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/karmugilan28/leetcode_problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/karmugilan28/leetcode_problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/karmugilan28/leetcode_problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/karmugilan28/leetcode_problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/karmugilan28/leetcode_problems/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/karmugilan28/leetcode_problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/karmugilan28/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
