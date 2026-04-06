@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karmugilan28/leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/karmugilan28/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/karmugilan28/leetcode_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2187-vowels-of-all-substrings](https://github.com/karmugilan28/leetcode_problems/tree/master/2187-vowels-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/karmugilan28/leetcode_problems/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/karmugilan28/leetcode_problems/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/karmugilan28/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/karmugilan28/leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/karmugilan28/leetcode_problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/karmugilan28/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
