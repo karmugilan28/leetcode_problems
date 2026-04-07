@@ -59,7 +59,6 @@ public:
             }
             int d = (abs(r)*abs(r)) + (abs(c)*abs(c));
             maxi = max(maxi,d);
-            cout << r << " " << c << " " << d << endl;
         }
         return maxi;
     }
