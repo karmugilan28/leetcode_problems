@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/karmugilan28/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/karmugilan28/leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/karmugilan28/leetcode_problems/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/karmugilan28/leetcode_problems/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/karmugilan28/leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/karmugilan28/leetcode_problems/tree/master/0342-power-of-four) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/karmugilan28/leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/karmugilan28/leetcode_problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/karmugilan28/leetcode_problems/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/karmugilan28/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/karmugilan28/leetcode_problems/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/karmugilan28/leetcode_problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/karmugilan28/leetcode_problems/tree/master/0342-power-of-four) |
