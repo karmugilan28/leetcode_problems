@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/karmugilan28/leetcode_problems/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/karmugilan28/leetcode_problems/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/karmugilan28/leetcode_problems/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
 ## Dynamic Programming
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/3654-minimum-array-sum) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/karmugilan28/leetcode_problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/karmugilan28/leetcode_problems/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/karmugilan28/leetcode_problems/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/2591-frog-jump-ii) |
 | [2689-rearranging-fruits](https://github.com/karmugilan28/leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/karmugilan28/leetcode_problems/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/karmugilan28/leetcode_problems/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [4042-minimum-operations-to-transform-array](https://github.com/karmugilan28/leetcode_problems/tree/master/4042-minimum-operations-to-transform-array) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Depth-First Search
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/karmugilan28/leetcode_problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/karmugilan28/leetcode_problems/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/karmugilan28/leetcode_problems/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Enumeration
 |  |
 | ------- |
