@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/karmugilan28/leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
+| [2392-build-a-matrix-with-conditions](https://github.com/karmugilan28/leetcode_problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/karmugilan28/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/karmugilan28/leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/karmugilan28/leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/karmugilan28/leetcode_problems/tree/master/2145-grid-game) |
+| [2392-build-a-matrix-with-conditions](https://github.com/karmugilan28/leetcode_problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/karmugilan28/leetcode_problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/karmugilan28/leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/karmugilan28/leetcode_problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karmugilan28/leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2392-build-a-matrix-with-conditions](https://github.com/karmugilan28/leetcode_problems/tree/master/2392-build-a-matrix-with-conditions) |
 ## Geometry
 |  |
 | ------- |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/karmugilan28/leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/karmugilan28/leetcode_problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karmugilan28/leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2392-build-a-matrix-with-conditions](https://github.com/karmugilan28/leetcode_problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/karmugilan28/leetcode_problems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/karmugilan28/leetcode_problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
