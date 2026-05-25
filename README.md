@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/karmugilan28/leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 | [2392-build-a-matrix-with-conditions](https://github.com/karmugilan28/leetcode_problems/tree/master/2392-build-a-matrix-with-conditions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/karmugilan28/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/karmugilan28/leetcode_problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/karmugilan28/leetcode_problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/karmugilan28/leetcode_problems/tree/master/2529-range-product-queries-of-powers) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/karmugilan28/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-convert-the-temperature](https://github.com/karmugilan28/leetcode_problems/tree/master/2469-convert-the-temperature) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/karmugilan28/leetcode_problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-strictly-palindromic-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2481-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/karmugilan28/leetcode_problems/tree/master/2998-count-symmetric-integers) |
@@ -762,4 +764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/karmugilan28/leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/karmugilan28/leetcode_problems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/karmugilan28/leetcode_problems/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Number Theory
+|  |
+| ------- |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/karmugilan28/leetcode_problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
