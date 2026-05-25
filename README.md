@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/karmugilan28/leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-convert-the-temperature](https://github.com/karmugilan28/leetcode_problems/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2481-strictly-palindromic-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/karmugilan28/leetcode_problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/karmugilan28/leetcode_problems/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/karmugilan28/leetcode_problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/karmugilan28/leetcode_problems/tree/master/4084-maximize-sum-of-squares-of-digits) |
