@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/karmugilan28/leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/karmugilan28/leetcode_problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmugilan28/leetcode_problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/karmugilan28/leetcode_problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/karmugilan28/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/karmugilan28/leetcode_problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmugilan28/leetcode_problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/karmugilan28/leetcode_problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3468-find-the-encrypted-string](https://github.com/karmugilan28/leetcode_problems/tree/master/3468-find-the-encrypted-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/karmugilan28/leetcode_problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
