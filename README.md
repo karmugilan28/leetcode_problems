@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/karmugilan28/leetcode_problems/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/karmugilan28/leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1025-minimum-cost-for-tickets](https://github.com/karmugilan28/leetcode_problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/karmugilan28/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/karmugilan28/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/karmugilan28/leetcode_problems/tree/master/0922-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/karmugilan28/leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/karmugilan28/leetcode_problems/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/karmugilan28/leetcode_problems/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/karmugilan28/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/karmugilan28/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/karmugilan28/leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/karmugilan28/leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
